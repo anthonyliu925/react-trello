@@ -1,10 +1,10 @@
 {
-  "name": "react-trello",
-  "description": "Pluggable components to add a trello like kanban board to your application (browserified)",
+  "name": "react-trello-plugin",
+  "description": "Pluggable components to add a trello like kanban board",
   "main": "dist/index.js",
   "authors": [
     "RC",
-    "Prakash"
+    "anthony liu"
   ],
   "license": "MIT",
   "keywords": [
